@@ -1,6 +1,9 @@
 # 2Dto3D-Golden-Ratio
 2D to 3D Face Reconstruction & Beautification - Installation Guide
 ==================================================================
+0. Install the main files and model from MY DRIVE
+----------------------
+https://drive.google.com/drive/folders/16_YdP-x4mpGSavLmAwsJx2avdyB2ja0N?usp=sharing
 
 1. Install Required Python Packages
 -----------------------------------
